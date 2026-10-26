@@ -1,7 +1,7 @@
 {
 	"admin/system/shellinabox": {
 		"title": "Terminal",
-		"order": 80,
+		"order": 20,
 		"action": {
 			"type": "firstchild"
 		},
